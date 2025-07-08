@@ -36,7 +36,7 @@ Inside each folder:
 ### 📌 Patterns Covered (so far)
 
 - [x] Strategy  
-- [ ] Observer  
+- [x] Observer  
 - [ ] Factory  
 - [ ] Singleton  
 *(...more coming soon)*
